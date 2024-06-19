@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Philosophy](README.md)
+* [Discovery](02\_Discovery.md)
+* [Mapping](03\_Mapping.md)
+* [Auth and Session](04\_Authorization\_and\_Session.md)
+* [￼￼￼Tactical Fuzzing - XSS](05\_XSS.md)
+* [06\_SQLi](06\_SQLi.md)
+* [Tactical Fuzzing - FI & Uploads](07\_File\_Upload.md)
+* [Testing CSRF On Application :](08\_CSRF.md)
+* [￼Privilege, Transport, Logic](09\_Privledge\_Logic\_Transport.md)
+* [Mobile](10\_Mobile.md)
+* [Auxiliary](11\_Auxiliary\_Info.md)
+* [Insecure Direct Object References](12\_IDOR.markdown)
+* [Fast Testing Checklist](<Fast Testing Checklist.md>)
+* [The Bug Hunter's Methodology (TBHM)](<README (1).md>)
+* [v4](v4/README.md)
