@@ -1,4 +1,4 @@
-# Philosophy
+# Philosophy of V9
 
 ## Differences from standard testing
 Single-sourced:
